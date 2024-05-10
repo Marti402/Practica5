@@ -101,7 +101,7 @@ graph TD;
     D --> E[Iterar sobre las direcciones I2C];
     E --> F{¿Dirección válida?};
     F -->|Sí| G[Enviar solicitud de transmisión];
-    F -->|No| H[Registrar error desconocido];
+    F -->|No| H[Error desconocido];
     G --> I{¿Error igual a 0?};
     I -->|Sí| J[Registrar dispositivo encontrado];
     I -->|No| K[Registrar error desconocido];
