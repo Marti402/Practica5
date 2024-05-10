@@ -188,4 +188,4 @@ Temperatura: 22.99 °C   Humedad: 55.78%
 ```
 
 ### Fotografías
-![Montaje]()
+![Montaje](https://github.com/Marti402/Practica5/blob/main/Ilustracio.jpg)
