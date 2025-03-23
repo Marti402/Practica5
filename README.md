@@ -77,7 +77,7 @@ done
 ### **Objetivo**
 Se utiliza un **sensor AHTX0** para medir la temperatura y mostrarla en:
 - Una **pantalla OLED**.
-- Una **página web instalada en la ESP32-S3**.
+- Una **página web iniciada en la ESP32-S3**.
 
 #### **Código**
 ```c++
